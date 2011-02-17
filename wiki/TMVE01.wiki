@@ -1,5 +1,5 @@
 = TMVE 0.1 =
-A copy of the html version of this page that accompanies the source can be. found [http://www.sccs.swarthmore.edu/users/08/ajb/tmve/README.html here]
+A copy of the html version of this page that accompanies the source can be found [http://www.sccs.swarthmore.edu/users/08/ajb/tmve/README.html here]
 
 ==Demo==
 This [http://www.sccs.swarthmore.edu/users/08/ajb/tmve/wiki100k/browse/topic-list.html browser] was produced by using the results of running David Blei's LDA-C on 100,000 Wikipedia articles to find 50 topics.
