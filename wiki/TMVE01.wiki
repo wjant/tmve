@@ -1,3 +1,5 @@
+This project has moved to: https://github.com/ajbc/tmve-original
+
 = TMVE 0.1 =
 A copy of the html version of this page that accompanies the source can be found [http://www.princeton.edu/~achaney/tmve/wiki100k/browse/topic-presence.html here].
 
